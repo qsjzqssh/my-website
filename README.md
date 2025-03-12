@@ -1,2 +1,2 @@
-# About this webs
+# About this web
 My first website!
